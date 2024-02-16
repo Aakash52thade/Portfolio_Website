@@ -15,7 +15,7 @@ export const Bio = {
     "https://drive.google.com/file/d/1zVDzw-w9Pq9G-lMIZxraMnv1i6neTxjh/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/akash-bawanthade-190423205/",
   twitter: "https://twitter.com/home?lang=en",
-  insta: "https://www.instagram.com/rishav_chanda/",
+ 
   
 };
 
