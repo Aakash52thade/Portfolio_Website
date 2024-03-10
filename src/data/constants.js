@@ -264,7 +264,7 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
+    id: 0,
     title: "Password Genrator",
     date: "March 2023 - March 2023",
     description:
@@ -281,7 +281,7 @@ export const projects = [
     webapp: "https://password-1genrator.netlify.app/",
   },
   {
-    id: 0,
+    id: 1,
     title: "Weather report",
     date: "Apr 2023 - May 2023",
     description:
@@ -296,7 +296,7 @@ export const projects = [
    
   },
   {
-    id: 1,
+    id: 2,
     title: "Razorpay Clone",
     date: "Oct 2022 - Present",
     description:
@@ -312,7 +312,7 @@ export const projects = [
     webapp: "https://main--aesthetic-semifreddo-f9edf4.netlify.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "StudyNotion Ed-tech",
     date: "Jan 2023 - Mar 2023",
     description:
@@ -332,6 +332,21 @@ export const projects = [
       
     ],
   },
+
+  {
+    id: 4,
+    title: "Github Search App",
+    date: "May 2023",
+    description: 
+    "Built with HTML, CSS, and JavaScript, this project utilizes the GitHub API to showcase user information, including profile images, total repositories, social links, and followers. It also features a seamless toggle between dark and light display modes for enhanced user experience",
+    image: "https://github.com/Aakash52thade/Portfolio_Website/blob/main/src/images/Screenshot%20(46).png",
+    tags: [
+      "HTML", "CSS", "JS"
+    ],
+    category: "web app",
+    github: "https://github.com/Aakash52thade/GitHub-search-app",
+    webapp: "https://prismatic-baklava-4484d9.netlify.app/",
+  }
  
   
 ];
